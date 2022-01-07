@@ -1,0 +1,10 @@
+The file command_file.txt was different in main and b1 branches as both had modified it and main had pushed those changes. 
+main branch had the first statement as [[[edited from main branch]]]
+b1 branch had the first statement as (((edited from b1 branch)))
+
+this created a conflict while merging as main had pushed its changes
+we resolved the conflict by opening the file in vim editor and changed the first statement into: 
+""""merge conflict resolved"""
+
+now this copy of file went to both the branches, thus solving the conflict.
+then we committed and pushed the file from main branch
