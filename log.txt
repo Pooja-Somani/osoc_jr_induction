@@ -1,0 +1,36 @@
+commit 5d379592e1ec8bc9af57cac40c3c60b80d10ae76
+Author: Pooja-Somani <poojasomani295@gmail.com>
+Date:   Fri Jan 7 14:57:43 2022 +0530
+
+    added a file description of resolving the merge conflict
+
+commit 163eea0fc40d2d3b00695d45f6a722eac28e32c5
+Merge: c1bce60 7a2b462
+Author: Pooja-Somani <poojasomani295@gmail.com>
+Date:   Fri Jan 7 14:51:02 2022 +0530
+
+    merge conflict resolved
+
+commit c1bce6087c6e89fd815f537ff3fa3c785bfd6d16
+Author: Pooja-Somani <poojasomani295@gmail.com>
+Date:   Fri Jan 7 14:16:02 2022 +0530
+
+    edited file from main branch
+
+commit 7a2b46272df7fa448a236baa6e1ec8802a610a40
+Author: Pooja-Somani <poojasomani295@gmail.com>
+Date:   Fri Jan 7 12:19:26 2022 +0530
+
+    edited command file
+
+commit c2cce207aa104a9b1667c193b23530e6fb32c613
+Author: Pooja-Somani <poojasomani295@gmail.com>
+Date:   Fri Jan 7 12:15:52 2022 +0530
+
+    added git command file from main branch
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
